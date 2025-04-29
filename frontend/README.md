@@ -101,8 +101,8 @@ Create a new customer order.
 *Sample Request*:
 json
 {
-  "customer_name": "Khushi Pandey",
-  "customer_email": "khushi@example.com",
+  "customer_name": "Harshit Garg",
+  "customer_email": "harshit@example.com",
   "items": [
     {
       "product_id": 1,
@@ -131,7 +131,7 @@ View the status of an individual order.
 json
 {
   "order_id": 1,
-  "customer_name": "Khushi Pandey",
+  "customer_name": "Harshit Garg",
   "status": "processing",
   "created_at": "2023-04-02 15:30:45",
   "items": [

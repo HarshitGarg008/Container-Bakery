@@ -117,7 +117,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to Khushi's Bakery</h1>
+        <h1>Welcome to Harshit's Bakery</h1>
         <nav>
           <button onClick={() => setView('products')}>Products</button>
           <button onClick={() => setView('cart')}>
